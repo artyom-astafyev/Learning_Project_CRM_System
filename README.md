@@ -1,4 +1,4 @@
-﻿﻿# Learning_Project_CRM_System
+# Learning_Project_CRM_System
   
 CRM-система для учета заказов в магазине, с возможностью прогнозирования нагрузки
 
